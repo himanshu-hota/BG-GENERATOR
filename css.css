@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+  letter-spacing: 5px;
+  text-align: center;
+  background-image: linear-gradient(to right,#f0a500,#ff4b5c);
+}
+
+h1 {
+  color: #373a40;
+  font-size: 3em;
+}
+p {
+  color: #373a40;
+}
